@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 1200 1200">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 500px;
+        text-anchor: middle;
+        fill: #e6e1e1;
+        font-family: Poppins;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #ff3131;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <!-- "S" with "q" placed over it -->
+  <text id="Sq" class="cls-1" transform="translate(600 600) scale(1.17)">
+    <tspan x="0">S</tspan>
+    <tspan class="cls-2" x="205" dy="0">q</tspan>
+  </text>
+  <!-- Red circle positioned at the end of "q" -->
+  <circle class="cls-3" cx="1120" cy="710" r="50" />
+</svg>
